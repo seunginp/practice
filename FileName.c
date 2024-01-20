@@ -3,7 +3,7 @@
 
 int main()
 {
-	printf("adsd");
+	printf("practice all");
 
 	return 0;
 }
