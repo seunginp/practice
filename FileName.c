@@ -3,7 +3,9 @@
 
 int main()
 {
-	printf("adsd");
+	printf("Hello world");
+	
+	printf("Hello world2x");
 
 	return 0;
 }
