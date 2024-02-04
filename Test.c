@@ -9,6 +9,8 @@ void printarr(int parr[]) {
 	}
 }
 
+//충돌해결하기 !!
+
 int main() {
 
 	int arr[4] = { 1,2,3,4 };
