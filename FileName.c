@@ -14,6 +14,8 @@ int main()
 	//adsd
 	printf("adsd");
 
+	// 병합완료 !!!
+
 
 	return 0;
 }
